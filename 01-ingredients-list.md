@@ -83,3 +83,35 @@ Organized by category. Quantities are placeholders to be refined once your menu 
 - Basic loose-leaf black/green tea (decent quality available in BD, though Chinese/Taiwanese tea will taste more "authentic")
 
 This split matters because it keeps your first shipment small, focused on the ingredients that actually make the biggest taste/authenticity difference — not on bulky low-value items like cups that add shipping cost without adding "wow factor."
+
+---
+
+## First Import Batch — Estimated Quantities & Cost (China-Sourced Items Only)
+
+This is a **starter trial batch**, sized for roughly **50–60 cups/day average over your first month (~1,500 cups total)** as you ramp up. It only covers the items worth importing from China (see split above) — tea, sugar, cups, and cleaning supplies are excluded here since those are sourced locally (see equipment/local sourcing notes).
+
+| Item | Est. Qty (1st batch) | Unit Price Range (USD/kg)* | Est. Cost (USD) | Est. Cost (BDT)** |
+|---|---|---|---|---|
+| Black tapioca pearls (boba) | 35 kg | $1.50–2.20 | ~$70 | ~8,400 |
+| Popping boba (mixed fruit flavors) | 10 kg | $3.00–5.00 | ~$40 | ~4,800 |
+| Flavored syrups/concentrates (taro, mango, lychee, strawberry, passionfruit — combined) | 20 kg | $3.00–6.00 | ~$100 | ~12,000 |
+| Brown sugar syrup | 15 kg | $4.00–6.00 | ~$75 | ~9,000 |
+| Non-dairy creamer powder | 25 kg | $4.00–7.00 | ~$138 | ~16,500 |
+| Grass jelly | 5 kg | $2.50–3.50 | ~$15 | ~1,800 |
+| Coconut jelly / nata de coco | 5 kg | $1.00–1.50 | ~$6 | ~750 |
+| Pudding mix | 5 kg | $3.50–4.50 | ~$20 | ~2,400 |
+| **Subtotal (goods only)** | **~120 kg total** | | **~$464** | **~55,650** |
+| Freight/shipping (small first shipment, sea or air-express via forwarder) | — | highly variable | ~$120–$350 | ~14,400–42,000 |
+| Customs duty/VAT at clearance (varies by HS code — confirm with C&F agent) | — | varies | ~$50–$150+ | ~6,000–18,000+ |
+| **Estimated total landed cost (first batch)** | | | **~$630–$960** | **~76,000–115,000** |
+
+\* Price ranges pulled from current Alibaba wholesale listings for comparable products — these are **indicative only**, not confirmed supplier quotes. Actual prices depend on the specific supplier, MOQ, and whether you buy via Alibaba (export-ready, English-speaking) or 1688 (mainland China, cheaper but needs a sourcing agent).
+
+\** Converted at an approximate rate of ~120 BDT/USD — **check the current exchange rate** before finalizing your budget, as it fluctuates.
+
+### Important notes on this estimate
+- **This does not include your equipment costs** (cup sealer, dispensers, etc. — see `02-shop-equipment-list.md`), only consumable ingredients.
+- **Freight cost swings a lot** based on shipping method: sea freight (slower, cheaper per kg, better for 100kg+ loads) vs. air express (faster, much more expensive per kg, only worth it for a very first small test order). For ~120kg, sea freight consolidated via a forwarder is likely more economical — get 2-3 quotes from China→Bangladesh freight forwarders before committing.
+- **Customs/duty depends on the exact HS code** each product is classified under — some food ingredient categories also require a BSTI clearance certificate at the port. Confirm with your C&F agent before shipping, not after.
+- Consider **starting even smaller** (e.g., a half-batch, ~60kg total) purely to test product quality, your recipes, and real customer demand before committing to a larger repeat order — first orders from a new supplier always carry some quality-consistency risk.
+- Once you're placing **repeat monthly/bi-monthly orders**, per-kg prices typically drop as you qualify for better MOQ tiers and negotiate directly with the supplier — so this first-batch cost is likely your **highest per-unit cost**, not a representative ongoing cost.
