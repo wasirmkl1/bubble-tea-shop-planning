@@ -71,3 +71,47 @@ Cup sealer, fructose dispenser, hand shaker, induction cooker + pot, small fridg
 Electric shaker machine, ice maker, commercial blender, insulated tea urns, backup generator, expanded seating for the future dine-in transition.
 
 This phased approach keeps your **initial equipment budget lean** while leaving a clear, deliberate list of what to upgrade first with reinvested profit.
+
+---
+
+## Estimated Equipment Costs (Day 1 Lean Setup)
+
+These are **planning-level placeholder estimates** based on general commercial equipment pricing (similar equipment is widely available via local kitchen-equipment suppliers in Bangladesh, or imported from China alongside your ingredient shipment for better pricing on machinery). Actual prices will vary by brand, capacity, and whether bought locally vs. imported.
+
+| Item | Estimated Cost (BDT) | Notes |
+|---|---|---|
+| Cup sealing machine (manual) | 12,000–20,000 | Electric version: 25,000–40,000 — consider importing this alongside your ingredient shipment for a better price |
+| Fructose/syrup dispenser (manual pump) | 8,000–15,000 | Electric/automatic version costs more; manual is fine to start |
+| Hand shaker / cocktail shaker set | 1,500–3,500 | Electric shaker (growth phase): 15,000–30,000 |
+| Induction cooktop + large pot (for pearls) | 6,000–12,000 | |
+| Insulated pearl warmer/holding pot | 3,000–6,000 | |
+| Small commercial fridge/chiller | 30,000–55,000 | Biggest single equipment cost — shop around local appliance dealers |
+| Water filter/RO system | 8,000–18,000 | |
+| Digital weighing scale | 1,500–3,500 | |
+| Stainless steel prep counter | 15,000–30,000 | Can also get custom-built locally by a steel fabricator, often cheaper |
+| Sink installation (if not already present) | 8,000–20,000 | Depends heavily on existing plumbing in the rented space |
+| POS/billing setup (tablet + basic app, or register) | 10,000–25,000 | A cheap Android tablet + free/low-cost billing app can work initially |
+| Signage board (exterior, branded) | 8,000–20,000 | Depends on size and whether lit/backlit |
+| Interior basics (paint, LED strip lighting, small plants, decals) | 20,000–45,000 | This is where your "cozy vibe" budget goes — flexible range |
+| Fire extinguisher + first-aid kit | 2,000–4,000 | |
+| Voltage stabilizer | 3,000–6,000 | |
+| Staff aprons, hairnets, gloves (initial stock) | 2,000–4,000 | |
+| Trash bins, cleaning storage, misc small items | 3,000–6,000 | |
+| **Estimated Day 1 total** | **~141,000–267,500 BDT (~$1,175–$2,230 USD)** | |
+
+### Growth Phase additions (add later, once profitable)
+
+| Item | Estimated Cost (BDT) |
+|---|---|
+| Electric shaker machine | 15,000–30,000 |
+| Ice maker | 25,000–50,000 |
+| Commercial blender | 10,000–20,000 |
+| Insulated tea brewing urns (2–3 units) | 12,000–25,000 |
+| Backup generator/IPS | 20,000–60,000 (depends heavily on capacity needed) |
+| **Estimated growth-phase total** | **~82,000–185,000 BDT (~$680–$1,540 USD)** |
+
+### Important notes on this estimate
+- **Fridge and backup power (IPS/generator) are your two biggest cost swings** — get actual local dealer quotes early since these numbers move your total budget the most.
+- **Consider importing the sealer + dispenser alongside your ingredient shipment from China** — small commercial bubble tea equipment is often available on Alibaba at lower cost than local equivalents, and consolidating shipping with your ingredient order could save on freight costs. Worth getting quotes both ways before deciding.
+- **Prep counter and sink installation costs depend heavily on the exact condition of your rented shop space** — a space with existing plumbing/counters will cost far less to fit out than a bare shell.
+- As with the ingredient estimates, these are **starting reference numbers only** — get 2–3 real quotes from local kitchen equipment suppliers in Khulna/Dhaka before finalizing your total startup budget.

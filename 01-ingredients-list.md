@@ -115,3 +115,44 @@ This is a **starter trial batch**, sized for roughly **50–60 cups/day average 
 - **Customs/duty depends on the exact HS code** each product is classified under — some food ingredient categories also require a BSTI clearance certificate at the port. Confirm with your C&F agent before shipping, not after.
 - Consider **starting even smaller** (e.g., a half-batch, ~60kg total) purely to test product quality, your recipes, and real customer demand before committing to a larger repeat order — first orders from a new supplier always carry some quality-consistency risk.
 - Once you're placing **repeat monthly/bi-monthly orders**, per-kg prices typically drop as you qualify for better MOQ tiers and negotiate directly with the supplier — so this first-batch cost is likely your **highest per-unit cost**, not a representative ongoing cost.
+
+---
+
+## Locally / Dhaka-Sourced Items — Estimated Quantities & Cost (First Batch)
+
+These items are cheaper and faster to buy within Bangladesh (locally in Khulna, or via Dhaka wholesalers) rather than importing — sized for the same **~1,500 cups over the first month** starter volume.
+
+| Item | Est. Qty (1st batch) | Unit Price Range (BDT) | Est. Cost (BDT) |
+|---|---|---|---|
+| Black tea (loose leaf, local Sylhet-origin) | 8 kg | ~400–700/kg | ~4,400–5,600 |
+| Green tea (loose leaf) | 3 kg | ~500–900/kg | ~2,100–2,700 |
+| White sugar (for simple syrup, in-house) | 20 kg | ~110–135/kg | ~2,200–2,700 |
+| Fresh milk (if offering a "fresh milk" line) | ~60 liters | ~90–110/liter | ~5,400–6,600 |
+| Condensed/evaporated milk (tinned) | 15 tins (~400g each) | ~130–170/tin | ~1,950–2,550 |
+| Ice (bulk block/crushed, daily supply arrangement) | ~30 kg/day est. → ~900 kg/month | ~3–6/kg | ~2,700–5,400 |
+| Filtered/RO water (if not on a fixed filter setup yet — bottled backup) | ~40 x 20L jars | ~80–120/jar | ~3,200–4,800 |
+| Cleaning supplies (sanitizer, soap, cloths, gloves) | 1 month supply | — | ~2,000–3,500 |
+| **Subtotal** | | | **~24,000–33,850** |
+
+### Packaging & Consumables (also locally sourced)
+
+| Item | Est. Qty (1st batch, ~1,500 cups) | Unit Price Range (BDT) | Est. Cost (BDT) |
+|---|---|---|---|
+| Plastic cups (16oz, plain or lightly branded) | 1,600 pcs | ~3–6/pc | ~4,800–9,600 |
+| Cup lids (flat or dome) | 1,600 pcs | ~1.5–3/pc | ~2,400–4,800 |
+| Wide bubble tea straws | 1,600 pcs | ~0.5–1.5/pc | ~800–2,400 |
+| Straw wrappers (optional) | 1,600 pcs | ~0.3–0.6/pc | ~480–960 |
+| Sealing film roll (matched to your cup sealer) | 3–4 rolls | ~800–1,500/roll | ~2,400–6,000 |
+| Take-away carriers (2-cup/4-cup) | 200 pcs | ~3–6/pc | ~600–1,200 |
+| Napkins | 1,000 pcs | ~0.5–1/pc | ~500–1,000 |
+| Branded cup stickers/labels | 1,600 pcs | ~1–2/pc | ~1,600–3,200 |
+| **Subtotal (packaging)** | | | **~13,580–29,160** |
+
+**Combined local/Dhaka-sourced total (ingredients + packaging, first batch): ~37,500–63,000 BDT (~$310–$525 USD)**
+
+### Important notes on this estimate
+- **Sugar prices in Bangladesh are volatile** and have swung significantly over the past couple of years due to import tariffs and market conditions — the range above reflects recent reported retail/wholesale rates, but check current local market price before budgeting ([TBS News reporting on sugar price fluctuations](https://www.tbsnews.net/economy/bazaar/panic-buying-causes-retail-shortage-despite-ample-stocks-edible-oil-sugar-1384436)).
+- **Ice sourcing** — daily block ice purchase is common and cheap in Bangladesh, but confirm with a local ice supplier near your shop location; block sizes and delivery reliability vary.
+- **Cup/straw/packaging prices** are rough Bangladesh retail-market estimates, not confirmed wholesale quotes — actual bulk wholesale rates from a Dhaka packaging supplier will likely be cheaper per unit than these placeholder figures, especially at higher order volumes.
+- If you eventually want **custom-branded cups locally**, expect higher printing setup costs and higher MOQs than plain cups — many shops start with plain cups + a branded sticker (as listed above) to keep costs low initially.
+- These are **planning-level placeholders** — please verify with 2-3 local suppliers (Khulna local market + a Dhaka wholesaler) before finalizing your budget.
